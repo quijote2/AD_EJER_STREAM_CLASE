@@ -1,0 +1,26 @@
+PROCESAMIENTO DE VENTAS
+=======================
+Número de ventas: 5
+Unidades totales: 21
+Ingresos totales: 2855.00
+
+INGRESOS POR TIENDA
+TiendaA: 1350.00
+TiendaB: 755.00
+TiendaC: 750.00
+
+PRODUCTO MÁS VENDIDO: Raton
+Unidades vendidas: 10
+ID de la venta de mayor importe: 1
+
+INGRESOS POR MES
+01: 1355.00
+02: 900.00
+03: 600.00
+
+CATEGORÍA CON MÁS INGRESOS: Informatica
+
+VENTAS MAYORES DE 500
+1
+4
+5
